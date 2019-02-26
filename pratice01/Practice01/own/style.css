@@ -1,0 +1,21 @@
+body{
+	margin-left: 1em;margin-top: 2em;
+	color: brown;
+	background-image: url(yaoming.jpg);background-repeat: no-repeat;background-position: 20cm 22cm;
+	background-size: 500px;
+	background-color:#D1E0C4;
+}
+
+
+h1, h2, h3, h4, h5, h6{
+	color: #792B46;	
+}
+span,div,p{
+	background-color: #FDFFBD;
+	font-family: 'Felipa', cursive;
+	
+}
+blockquote{
+	font-family: 'Cinzel', serif;
+	font-style: italic;
+}
